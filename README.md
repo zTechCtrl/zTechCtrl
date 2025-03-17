@@ -1,7 +1,7 @@
 - Hi There👋, I’m Omondi Anthony [![](https://visitcount.itsvg.in/api?id=zTechCtrl&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 👀 I’m currently in **Web development, especially with PHP**
-- 🌟 I have alot of interest In **Machine learning**
+- 🌟 I have interest In **Machine learning**
 - 🌱 I’m currently learning **ML and Linux**
 - 💞️ I’m looking to collaborate on **Dev Projects**
 - 📫 How to reach me **ztechsolutions02@gmail.com**
